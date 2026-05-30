@@ -81,7 +81,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23ffffff.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23ffffff.svg?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23ffffff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
 </div>
 
@@ -95,7 +94,7 @@
 
 ```javascript
 const manas = {
-  currentlyBuilding : ["Full Stack Web Apps", "DSA problem-solving streak"],
+  currentlyBuilding : ["Full Stack Web Apps", "DSA problem-solving"],
   learning          : ["System Design", "AWS Cloud", "Open Source workflows"],
   stack             : ["MERN", "C++", "REST APIs"],
   openTo            : ["Collabs", "Internships", "OSS contributions"],
@@ -168,15 +167,6 @@ me after coding:    git commit -m "why is this working"
 git push:           fingers crossed 🤞
 production:         💀💀💀
 ```
-
-| Stage | Emotion |
-|---|---|
-| Read the problem | 🤔 |
-| Write the solution | 😤 |
-| It doesn't compile | 😡 |
-| Missing semicolon | 🤡 |
-| It works | 🗿 |
-| It breaks in prod | 💀 |
 
 </div>
 
