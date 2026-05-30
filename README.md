@@ -29,8 +29,8 @@
 ║   > whoami                                                   ║
 ║                                                              ║
 ║   Name    : Manas Kapoor                                     ║
-║   Role    : Full Stack Dev + DSA Enjoyer                     ║
-║   Status  : [ONLINE] Locked in. Shipping code.              ║
+║   Role    : Full Stack Dev + DSA                             ║
+║   Status  : [ONLINE] Locked in. Shipping code.               ║
 ║   Mission : Build things. Break things. Fix things.          ║
 ║   OS      : Arch btw (jk... maybe)                           ║
 ║                                                              ║
