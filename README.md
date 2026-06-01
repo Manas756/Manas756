@@ -128,14 +128,6 @@ const manas = {
 <!-- Guide: https://github.com/Platane/snk                        -->
 <!-- ============================================================ -->
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Manas756/Manas756/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
 ---
 
 <!-- ============================================================ -->
