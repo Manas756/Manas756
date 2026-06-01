@@ -64,7 +64,7 @@
 ![C++](https://img.shields.io/badge/C++-%23ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23ffffff.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23ffffff.svg?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-%23ffffff.svg?style=for-the-badge&logo=css3&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-%23ffffff.svg?style=for-the-badge&logo=css3&logoColor=black)
 
 **[ BACKEND & RUNTIME ]**
 
