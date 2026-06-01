@@ -121,29 +121,6 @@ const manas = {
 </div>
 
 ---
-
-<!-- ============================================================ -->
-<!--                   CONTRIBUTION SNAKE GRAPH                   -->
-<!-- To enable: Repo Actions > enable snake workflow              -->
-<!-- Guide: https://github.com/Platane/snk                        -->
-<!-- ============================================================ -->
-
----
-
-<!-- ============================================================ -->
-<!--                    TOP CONTRIBUTED REPOS                     -->
-<!-- ============================================================ -->
-
-<h2 align="center">🏆 TOP CONTRIBUTIONS</h2>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Manas756&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=000000" width="60%"/>
-
-</div>
-
----
-
 <!-- ============================================================ -->
 <!--                    GRINDSET / HUMOR SECTION                  -->
 <!-- ============================================================ -->
