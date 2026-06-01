@@ -74,7 +74,6 @@
 **[ DATABASES ]**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23ffffff.svg?style=for-the-badge&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%23ffffff.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
 **[ CLOUD & TOOLS ]**
 
