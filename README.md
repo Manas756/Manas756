@@ -17,16 +17,11 @@
 
 ### Hello Internet
 
-<img src="https://komarev.com/ghpvc/?username=ManasKapoor&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Location-India-6A5ACD?style=for-the-badge" alt="Location"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00c853?style=for-the-badge" alt="Status"/>
-</div>
-<div align="center">
+<img src="https://cdn.corenexis.com/f/STKlIDxkhdL.png/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-azure-eight-c0ptl886rz.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-kapoor-5075b9347/)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
@@ -244,7 +239,6 @@ One or two lines on the problem this project solves and why it matters.
 <table width="100%">
 <tr><td>
 
-- [ ] Reach **150+ LeetCode** problems solved
 - [ ] Master **React** (hooks, patterns, performance)
 - [ ] Master **Node.js** + backend architecture
 - [ ] Get comfortable with **Docker**
@@ -261,32 +255,6 @@ One or two lines on the problem this project solves and why it matters.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
 <a id="leetcode"></a>
-
-## LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/ManasKapoor?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
-
-</div>
-
-> Placeholder stats — swap the handle above for your real LeetCode username once profile is public.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
-
-## Blog
-
-<table width="100%">
-<tr><td align="center">
-
-**Latest posts coming soon** — this section auto-updates once the blog / Hashnode / Dev.to feed is connected.
-<br/><br/>
-[![Blog](https://img.shields.io/badge/Read%20on-Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white)](#)
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
 ## Dev Quote
 
