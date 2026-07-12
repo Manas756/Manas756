@@ -11,13 +11,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontAlign=50" width="100%"/>
 
-<img src="assets/hero.png" width="160"/>
+<img src="Hero_image-removebg-preview.png" width="160"/>
 
 <!-- Hero image lives at assets/hero.png — keep that file committed alongside README.md so it renders. -->
 
 ### Hello Internet
 
-<img src="Hero_image-removebg-preview.png/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
 
 <br/>
 
