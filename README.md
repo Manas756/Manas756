@@ -17,7 +17,11 @@
 
 ### Hello Internet
 
-<a href="https://github.com/Manas756/Manas756/blob/main/aceb709963bbbd7ce7ea6a1090e71f06.jpg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
+<img src="https://komarev.com/ghpvc/?username=ManasKapoor&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Location-India-6A5ACD?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00c853?style=for-the-badge" alt="Status"/>
+</div>
+<div align="center">
 
 <br/>
 
