@@ -11,76 +11,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontAlign=50" width="100%"/>
 
-<pre>
-                                                                    
-                                ..............                      
-                             ...               ....                 
-                            .    .:-======--:.      ..              
-                     ....... .:+#@@@@@@%%######*+-:                 
-                .....       :#@@@#+-..       ..:-=+*+-.             
-              ..     ..:---=%@@#-..-::::::::::.::-++==-...          
-            ..  .:=+##%%##@@@@@@@@@@@@@@@@@@@@@@@%#*=   ..          
-              -*#%%#****#%@@@@@@@@@@%@@@@@@@@@@@@@@@@#+:  .         
-        .....*%#*+++*#@@@@@@@@@#%%%%%%@@@%%%@@@@@@@@@@@@#:..        
-           .-#*+**#%@@@@@@@@@@%%%%%%%%@@@@@%#%@@@@@@@@@%@#.         
-  ......=:.+#=%@@@@@@@@@@@@@@%%@@%##%%@@@@@@%*@@@@@@@@@@%++. .      
-        +@#%@#%%@@@@@@@@@@@@@@@@@#%%%@@%@@@@@##@@@@@@@@%= @- .      
-  :--=++++*##%%%@@@@@@@@@@@@@@@%@%#%@@@@@@@@@%#%@@@@%#%*. %+..      
-.%#+++*#**#%@@@@@@@@@@@@@%%%@@@@%@%%%@@@@@@@@@%#%@@@%%#*+=#*   .    
-.=*#*==#@@@@@@@@@@@@@@@@%%%#%@@@@@@@@@@@@@@@@@%%@%%@@%%*+*#*+-      
-   :+%@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@#%%#*#**-..   
- :=*@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@%####+=++. .  
-:##@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@%@@@@#%@@@@@@@@%#*==: . 
-*%@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%%%%%@@%@@@@@@@@@%#+=.  
-+%@@@@@%@=*%@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@%%%%%@@@%#%@@@@@%#@**:.
-.+@@@@@@@+##@@@@@@@@@@%%@@@@@@@@%@@@@@@@%#@@@@@@@@@@%##@%@@@##**%*-.
- :@#.*@@@%#%@@@@@%##%%%@@@@@@@%*+*%@@@@%=-+*%@@@@%#*=-=@@@@@%*=*@- .
-. +@. =@@@##@@@@#***#%@@@@@%*+===+#@@%*-------==++=----*@@#####+-.. 
- . +%*#@@=+%%@@#+*%@@@@@@@@%%###=+##+=+*####%%%%%@@@#=:-#%###%+. .  
-  . .=*+: +#%@#=*@@@@@@@@@@@@@@@+*+==+%@@@@@@@%%#***%%=:=@%#*-  .   
-   .    .-*#%@#=*@@@@@@@@@@@@@@@%%#***#%%%%###*****+++=:=@#*=:.  .  
-    ...+%@@@%@#=#@@@%#%@@@@@@@@@@%*+++*#%#%@@@%%+=*#*+=:=@#==+*=.   
-    ..+@@@@@%@*+#%%#*+*@@@@@#=%@@#+--=+**=%@@@@@:.:=*==:=@+=++*#+. .
-   . .%@@%%@@@*=+++*****###*-=###+=---====+*##*=:--=---:=%*====+*: .
-    . +@%#%@@%*==++****++===++***+==-----=====-====----:++**=====. .
-    ...+%##%@%#=+****++++===++*++===---------------==--:*==+-==-. . 
-        :*####%++###**+++++++++++===------------======--*====-:. .  
-       . .-*%%@*+#%##**++++*###%##*++=++==------======-+*==-:.  .   
-        .  .-=*@**#%##*****#%@@@@@@%####*=------=====-=#=-:.  .     
-          .   .%%##%%##****#%@@@@@@@%#*+=----=========%*    .       
-           ... +@@%%%%####%@@@@@@%%%%@@@@%#*=-====++*%%:....        
-             ...%@@@@%%%@@@@@@@@%%##*###%@@@@#==+*#%@@= .           
-              . :%@@@@@@@@%%%%%##***++++****@@*+#@@@@+ .            
-               . :#@@@@@@@@%%%@@@%%%%#**++++%@*%@@@@= ..            
-                . .=%@@@@@@@@%%%@@@@@#*****%@@@@@@+: .              
-                 .. .%@@@@@@@@%%@@@@%####%@@@@@@%-  .               
-                  .. +%@@@@@@@@@@@@@@@@@@@@@@@%*- ..                
-                   ..=%%@@@@@@@@@@@@@@@@@@@@%*+=-.                  
-</pre>
+<img src="assets/hero.png" width="160"/>
 
-<!-- ASCII portrait generated from the uploaded photo — grayscale → contrast stretch → character-density mapping. Swap assets/ascii-portrait.txt if you regenerate it. -->
+<!-- Hero image lives at assets/hero.png — keep that file committed alongside README.md so it renders. -->
 
-### Hello Internet 👋
+### Hello Internet
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-azure-eight-c0ptl886rz.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-kapoor-5075b9347/)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <img src="https://komarev.com/ghpvc/?username=ManasKapoor&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Location-India%20🇮🇳-6A5ACD?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-India-6A5ACD?style=for-the-badge" alt="Location"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00c853?style=for-the-badge" alt="Status"/>
 
 </div>
 
 <div align="center">
 
-**[About](#about-me)** · **[Tech Stack](#tech-stack)** · **[Stats](#github-stats)** · **[Projects](#project-showcase)** · **[Journey](#coding-journey)** · **[Mission 2026](#mission-2026)** · **[LeetCode](#leetcode)** · **[Fun](#fun-facts)** · **[Recruiters](#for-recruiters)**
+**[About](#about-me)** · **[Tech Stack](#tech-stack)** · **[Projects](#project-showcase)** · **[Journey](#coding-journey)** · **[Mission 2026](#mission-2026)** · **[LeetCode](#leetcode)** · **[Fun](#fun-facts)** · **[Recruiters](#for-recruiters)**
 
 </div>
 
@@ -88,7 +42,7 @@
 
 <a id="about-me"></a>
 
-## 👨‍💻 About Me
+## About Me
 
 > Somewhere between a `git commit` and a `git push`, a first-year CS student in India decided he didn't just want to *use* software — he wanted to *build* it.
 
@@ -110,7 +64,7 @@ while (!skilled) {
 
 <a id="tech-stack"></a>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table width="100%">
 <tr><td width="120"><b>Frontend</b></td><td>
@@ -174,33 +128,7 @@ while (!skilled) {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-<a id="github-stats"></a>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManasKapoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=61dbfb&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKapoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com/?user=ManasKapoor&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=61dbfb&currStreakLabel=a855f7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasKapoor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61dbfb&line=a855f7&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManasKapoor&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-#### 🐍 Contribution Snake
-
-<!-- Generated automatically by .github/workflows/snake.yml — runs daily off your real contribution graph -->
-<img src="https://raw.githubusercontent.com/ManasKapoor/ManasKapoor/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-
-> Snake animation renders after you add the workflow in `.github/workflows/snake.yml` (included below) and let it run once.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
-
-## 💻 Terminal
+## Terminal
 
 ```bash
 manas@dev:~$ whoami
@@ -211,9 +139,9 @@ manas@dev:~$ skills --loading
 DSA · JavaScript · React · Node.js · SQL · Docker · System Design
 
 manas@dev:~$ status
-🟢 Currently: shipping code
-🟡 Currently: fighting a merge conflict
-🔴 Currently: googling the error I've googled 5 times before
+Currently: shipping code
+Currently: fighting a merge conflict
+Currently: googling the error I've googled 5 times before
 
 manas@dev:~$ mission
 > Become an Elite Software Engineer
@@ -222,27 +150,27 @@ manas@dev:~$ mission
 
 manas@dev:~$ sudo hire manas
 [sudo] password for recruiter: ********
-Permission granted ✅
+Permission granted.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
 <a id="project-showcase"></a>
 
-##  Project Showcase
+## Project Showcase
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<img src="https://img.shields.io/badge/Project-Coming%20Soon-1a1a2e?style=for-the-badge" width="100%"/>
+<img src="https://img.shields.io/badge/ShatranjX-1a1a2e?style=for-the-badge" width="100%"/>
 
-**Project Name #1**
+**ShatranjX**
 <br/>
-One or two lines on the problem this project solves and why it matters.
+Real-time multiplayer chess game with live move sync, drag-and-drop play, legal move validation, and board flipping — built to sharpen full-stack and real-time web dev skills.
 
-`React` `Node.js` `MongoDB`
+`JavaScript` `Socket.io` `Chess.js`
 
-[![Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](#)
+[![Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](https://shatranjx-com-master-the-game.onrender.com/) [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Manas756/ShatranjX.com-Master-The-Game)
 
 </td>
 <td width="33%" valign="top">
@@ -278,7 +206,7 @@ One or two lines on the problem this project solves and why it matters.
 
 <a id="coding-journey"></a>
 
-##  Coding Journey
+## Coding Journey
 
 ```
 2024 ─┬─ First "Hello, World!" in C++
@@ -307,18 +235,19 @@ One or two lines on the problem this project solves and why it matters.
 
 <a id="mission-2026"></a>
 
-## 🎯 Mission 2026
+## Mission 2026
 
 <table width="100%">
 <tr><td>
-d
-- [ ] ⚛️ **React** (hooks, patterns, performance)
-- [ ] 🟢 **Node.js** + backend architecture
-- [ ] 🐳 Get comfortable with **Docker**
-- [ ] 🏗️ Learn **System Design** fundamentals
-- [ ] 💼 Land a **Software Engineering internship**
-- [ ] 🚀 Ship **production-grade apps**, not just tutorials
-- [ ] 🌍 Make my first real **open-source contribution**
+
+- [ ] Reach **150+ LeetCode** problems solved
+- [ ] Master **React** (hooks, patterns, performance)
+- [ ] Master **Node.js** + backend architecture
+- [ ] Get comfortable with **Docker**
+- [ ] Learn **System Design** fundamentals
+- [ ] Land a **Software Engineering internship**
+- [ ] Ship **production-grade apps**, not just tutorials
+- [ ] Make my first real **open-source contribution**
 
 </td></tr>
 </table>
@@ -329,7 +258,7 @@ d
 
 <a id="leetcode"></a>
 
-## 🧩 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -341,12 +270,12 @@ d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-##  Blog
+## Blog
 
 <table width="100%">
 <tr><td align="center">
 
-📝 **Latest posts coming soon** — this section auto-updates once the blog / Hashnode / Dev.to feed is connected.
+**Latest posts coming soon** — this section auto-updates once the blog / Hashnode / Dev.to feed is connected.
 <br/><br/>
 [![Blog](https://img.shields.io/badge/Read%20on-Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white)](#)
 
@@ -355,7 +284,7 @@ d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-## 💬 Dev Quote of the Moment
+## Dev Quote
 
 <div align="center">
 
@@ -367,14 +296,14 @@ d
 
 <a id="fun-facts"></a>
 
-## 🎲 Fun Facts
+## Fun Facts
 
 <table width="100%">
-<tr><td> Favorite shortcut</td><td><code>Ctrl + Z</code> — my most-used superpower</td></tr>
-<tr><td>☕ Coffee level</td><td><img src="https://progress-bar.xyz/80/?title=Coffee&color=6f4e37&width=250"/></td></tr>
-<tr><td>🐞 Debug success rate</td><td><img src="https://progress-bar.xyz/62/?title=Success&color=00c853&width=250"/></td></tr>
-<tr><td>😴 Sleep schedule</td><td><img src="https://progress-bar.xyz/40/?title=Consistency&color=ff5252&width=250"/></td></tr>
-<tr><td> Current obsession</td><td>Three.js and making divs feel three-dimensional</td></tr>
+<tr><td>Favorite shortcut</td><td><code>Ctrl + Z</code> — my most-used superpower</td></tr>
+<tr><td>Coffee level</td><td><img src="https://progress-bar.xyz/80/?title=Coffee&color=6f4e37&width=250"/></td></tr>
+<tr><td>Debug success rate</td><td><img src="https://progress-bar.xyz/62/?title=Success&color=00c853&width=250"/></td></tr>
+<tr><td>Sleep schedule</td><td><img src="https://progress-bar.xyz/40/?title=Consistency&color=ff5252&width=250"/></td></tr>
+<tr><td>Current obsession</td><td>Three.js and making divs feel three-dimensional</td></tr>
 </table>
 
 <br/>
@@ -436,7 +365,7 @@ d
 
 <a id="for-recruiters"></a>
 
-##  For Recruiters
+## For Recruiters
 
 <table width="100%">
 <tr><td>
@@ -460,7 +389,7 @@ If you're building something interesting, my inbox is open. Check the pinned rep
 
 <div align="center">
 
-### Thanks for stopping by 
+### Thanks for Stopping By
 
 **"Talk is cheap. Show me the code."** — Linus Torvalds
 
@@ -469,4 +398,3 @@ If you're building something interesting, my inbox is open. Check the pinned rep
 </div>
 
 <!-- easter egg #2: if you're a recruiter reading raw markdown, that's dedication — email me, let's skip the ATS -->
-<!-- easter egg #3: yes, the ASCII art up top really is generated from a real photo, not filler text -->
