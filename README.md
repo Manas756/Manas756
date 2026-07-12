@@ -1,405 +1,472 @@
-<!-- ============================================================ -->
-<!--                     HERO / BANNER SECTION                    -->
-<!-- ============================================================ -->
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  Manas Kapoor — GitHub Profile README                              ║
+  ║  Replace every instance of "ManasKapoor" with your real GitHub     ║
+  ║  username, and swap the "#" placeholder links for your real ones.  ║
+  ║  If you're reading this... hire me :)                              ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=380&text=MANAS%20KAPOOR&fontSize=72&color=0:000000,100:111111&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontAlign=50" width="100%"/>
+
+<pre>
+                                                                    
+                                ..............                      
+                             ...               ....                 
+                            .    .:-======--:.      ..              
+                     ....... .:+#@@@@@@%%######*+-:                 
+                .....       :#@@@#+-..       ..:-=+*+-.             
+              ..     ..:---=%@@#-..-::::::::::.::-++==-...          
+            ..  .:=+##%%##@@@@@@@@@@@@@@@@@@@@@@@%#*=   ..          
+              -*#%%#****#%@@@@@@@@@@%@@@@@@@@@@@@@@@@#+:  .         
+        .....*%#*+++*#@@@@@@@@@#%%%%%%@@@%%%@@@@@@@@@@@@#:..        
+           .-#*+**#%@@@@@@@@@@%%%%%%%%@@@@@%#%@@@@@@@@@%@#.         
+  ......=:.+#=%@@@@@@@@@@@@@@%%@@%##%%@@@@@@%*@@@@@@@@@@%++. .      
+        +@#%@#%%@@@@@@@@@@@@@@@@@#%%%@@%@@@@@##@@@@@@@@%= @- .      
+  :--=++++*##%%%@@@@@@@@@@@@@@@%@%#%@@@@@@@@@%#%@@@@%#%*. %+..      
+.%#+++*#**#%@@@@@@@@@@@@@%%%@@@@%@%%%@@@@@@@@@%#%@@@%%#*+=#*   .    
+.=*#*==#@@@@@@@@@@@@@@@@%%%#%@@@@@@@@@@@@@@@@@%%@%%@@%%*+*#*+-      
+   :+%@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@#%%#*#**-..   
+ :=*@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@%####+=++. .  
+:##@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@%@@@@#%@@@@@@@@%#*==: . 
+*%@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%%%%%@@%@@@@@@@@@%#+=.  
++%@@@@@%@=*%@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@%%%%%@@@%#%@@@@@%#@**:.
+.+@@@@@@@+##@@@@@@@@@@%%@@@@@@@@%@@@@@@@%#@@@@@@@@@@%##@%@@@##**%*-.
+ :@#.*@@@%#%@@@@@%##%%%@@@@@@@%*+*%@@@@%=-+*%@@@@%#*=-=@@@@@%*=*@- .
+. +@. =@@@##@@@@#***#%@@@@@%*+===+#@@%*-------==++=----*@@#####+-.. 
+ . +%*#@@=+%%@@#+*%@@@@@@@@%%###=+##+=+*####%%%%%@@@#=:-#%###%+. .  
+  . .=*+: +#%@#=*@@@@@@@@@@@@@@@+*+==+%@@@@@@@%%#***%%=:=@%#*-  .   
+   .    .-*#%@#=*@@@@@@@@@@@@@@@%%#***#%%%%###*****+++=:=@#*=:.  .  
+    ...+%@@@%@#=#@@@%#%@@@@@@@@@@%*+++*#%#%@@@%%+=*#*+=:=@#==+*=.   
+    ..+@@@@@%@*+#%%#*+*@@@@@#=%@@#+--=+**=%@@@@@:.:=*==:=@+=++*#+. .
+   . .%@@%%@@@*=+++*****###*-=###+=---====+*##*=:--=---:=%*====+*: .
+    . +@%#%@@%*==++****++===++***+==-----=====-====----:++**=====. .
+    ...+%##%@%#=+****++++===++*++===---------------==--:*==+-==-. . 
+        :*####%++###**+++++++++++===------------======--*====-:. .  
+       . .-*%%@*+#%##**++++*###%##*++=++==------======-+*==-:.  .   
+        .  .-=*@**#%##*****#%@@@@@@%####*=------=====-=#=-:.  .     
+          .   .%%##%%##****#%@@@@@@@%#*+=----=========%*    .       
+           ... +@@%%%%####%@@@@@@%%%%@@@@%#*=-====++*%%:....        
+             ...%@@@@%%%@@@@@@@@%%##*###%@@@@#==+*#%@@= .           
+              . :%@@@@@@@@%%%%%##***++++****@@*+#@@@@+ .            
+               . :#@@@@@@@@%%%@@@%%%%#**++++%@*%@@@@= ..            
+                . .=%@@@@@@@@%%%@@@@@#*****%@@@@@@+: .              
+                 .. .%@@@@@@@@%%@@@@%####%@@@@@@%-  .               
+                  .. +%@@@@@@@@@@@@@@@@@@@@@@@%*- ..                
+                   ..=%%@@@@@@@@@@@@@@@@@@@@%*+=-.                  
+</pre>
+
+<!-- ASCII portrait generated from the uploaded photo — grayscale → contrast stretch → character-density mapping. Swap assets/ascii-portrait.txt if you regenerate it. -->
+
+### Hello Internet 👋
+
+<a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
 
 <br/>
 
-<img 
-src="https://raw.githubusercontent.com/Manas756/Manas756/main/assets/avatar.png" 
-width="220"
-/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-6A5ACD?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<h1 align="center">⚡ MANAS KAPOOR ⚡</h1>
-
-<p align="center">
-<b>Full Stack Developer • DSA Grinder • Open Source Builder</b>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+real+world+projects+🚀;Solving+DSA+daily+🧠;Learning+System+Design+⚡;Open+Source+Contributor+🔥;Locked+in.+Always.+🖤" />
-
-<br/><br/>
-
-[![Discord](https://img.shields.io/badge/Discord-%23ffffff.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/66Z4qznZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/manas-kapoor-5075b9347)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:manaskapoor033@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Manas756&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/Manas756)
+<img src="https://komarev.com/ghpvc/?username=ManasKapoor&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Location-India%20🇮🇳-6A5ACD?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00c853?style=for-the-badge" alt="Status"/>
 
 </div>
 
----
+<div align="center">
 
-# ⚔️ ABOUT ME
+**[About](#about-me)** · **[Tech Stack](#tech-stack)** · **[Stats](#github-stats)** · **[Projects](#project-showcase)** · **[Journey](#coding-journey)** · **[Mission 2026](#mission-2026)** · **[LeetCode](#leetcode)** · **[Fun](#fun-facts)** · **[Recruiters](#for-recruiters)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="about-me"></a>
+
+## 👨‍💻 About Me
+
+> Somewhere between a `git commit` and a `git push`, a first-year CS student in India decided he didn't just want to *use* software — he wanted to *build* it.
+
+It started the usual way: a broken "Hello World," a semicolon hunted down for forty-five minutes, and the strange addictive feeling of watching code finally *run*. Since then it's turned into late nights with **DSA problems**, a growing obsession with **React** and **Node.js**, and an itch to build things in **3D on the web** with **Three.js** — because flat websites stopped being interesting a while ago.
+
+Right now, the mission is simple: get good at the fundamentals, ship real projects, break things and fix them in public, and slowly turn "CS student" into "Software Engineer" — the kind companies are glad they hired.
+
+```txt
+while (!skilled) {
+  learn();
+  build();
+  breakSomething();
+  fixIt();
+  sleep(5); // optional
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="tech-stack"></a>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr><td width="120"><b>Frontend</b></td><td>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</td></tr>
+<tr><td><b>Languages</b></td><td>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td></tr>
+<tr><td><b>DevOps</b></td><td>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td></tr>
+<tr><td><b>Currently Learning</b></td><td>
+
+![DSA](https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</td></tr>
+<tr><td><b>On the Radar</b></td><td>
+
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Three.js](https://img.shields.io/badge/3D%20Web-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="github-stats"></a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManasKapoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=61dbfb&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKapoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com/?user=ManasKapoor&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=61dbfb&currStreakLabel=a855f7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasKapoor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61dbfb&line=a855f7&point=ffffff" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManasKapoor&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+#### 🐍 Contribution Snake
+
+<!-- Generated automatically by .github/workflows/snake.yml — runs daily off your real contribution graph -->
+<img src="https://raw.githubusercontent.com/ManasKapoor/ManasKapoor/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+> Snake animation renders after you add the workflow in `.github/workflows/snake.yml` (included below) and let it run once.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+## 💻 Terminal
 
 ```bash
-> whoami
+manas@dev:~$ whoami
+Manas Kapoor — CS Student, Full-Stack in progress
 
-Name    : Manas Kapoor
-Role    : Full Stack Developer
-Focus   : Building projects that solve real problems
-Stack   : MERN + C++ + REST APIs
-Learning: System Design, AWS, Open Source
-Status  : Locked in and shipping consistently
-🚀 FEATURED PROJECTS
-<table> <tr> <td width="50%">
-♟️ ShatranjX
+manas@dev:~$ skills --loading
+[██████████████████████████████████████░░░░░░░░░░] 78%
+DSA · JavaScript · React · Node.js · SQL · Docker · System Design
 
-Real-time multiplayer chess platform with live gameplay using WebSockets.
+manas@dev:~$ status
+🟢 Currently: shipping code
+🟡 Currently: fighting a merge conflict
+🔴 Currently: googling the error I've googled 5 times before
 
-⚡ Features
-Real-time multiplayer matches
-Legal move validation
-Live board synchronization
-Clean responsive UI
-Checkmate detection
-🛠️ Stack
+manas@dev:~$ mission
+> Become an Elite Software Engineer
+> Ship products people actually use
+> ETA: sooner than you'd think
 
-Node.js Express.js Socket.IO Chess.js EJS
+manas@dev:~$ sudo hire manas
+[sudo] password for recruiter: ********
+Permission granted ✅
+```
 
-🔗 Repo:
-https://github.com/Manas756
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-</td> <td width="50%">
-🌐 Developer Portfolio
+<a id="project-showcase"></a>
 
-Modern responsive portfolio focused on clean UI and performance.
+##  Project Showcase
 
-⚡ Features
-Responsive design
-Smooth animations
-Project showcase
-Contact integration
-🛠️ Stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Project-Coming%20Soon-1a1a2e?style=for-the-badge" width="100%"/>
 
-HTML CSS JavaScript
+**Project Name #1**
+<br/>
+One or two lines on the problem this project solves and why it matters.
 
-🔗 Repo:
-https://github.com/Manas756
+`React` `Node.js` `MongoDB`
 
-</td> </tr> </table>
-⚙️ TECH STACK
+[![Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](#)
+
+</td>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Project-Coming%20Soon-1a1a2e?style=for-the-badge" width="100%"/>
+
+**Project Name #2**
+<br/>
+One or two lines on the problem this project solves and why it matters.
+
+`Three.js` `JavaScript`
+
+[![Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](#)
+
+</td>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Project-Coming%20Soon-1a1a2e?style=for-the-badge" width="100%"/>
+
+**Project Name #3**
+<br/>
+One or two lines on the problem this project solves and why it matters.
+
+`Python` `SQL`
+
+[![Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](#)
+
+</td>
+</tr>
+</table>
+
+<!-- Swap the shields.io placeholder above for a real screenshot: assets/project-1.png etc. -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="coding-journey"></a>
+
+##  Coding Journey
+
+```
+2024 ─┬─ First "Hello, World!" in C++
+      │  Realized semicolons are not optional.
+      │
+2025 ─┼─ Picked up JavaScript + the DOM
+      │  Built first 10 tiny projects, broke all of them, learned more from that.
+      │
+      ├─ Started DSA seriously
+      │  Arrays → Strings → Trees → "wait, what is a heap"
+      │
+      ├─ Discovered React
+      │  Component-based thinking finally clicked.
+      │
+2026 ─┼─ Node.js + backend fundamentals
+      │  APIs, auth, databases — the invisible half of the internet.
+      │
+      ├─ Docker + System Design
+      │  Learning how real production systems actually stay up.
+      │
+      └─ ● YOU ARE HERE
+         Building toward an internship and open-source contributions.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="mission-2026"></a>
+
+## 🎯 Mission 2026
+
+<table width="100%">
+<tr><td>
+d
+- [ ] ⚛️ **React** (hooks, patterns, performance)
+- [ ] 🟢 **Node.js** + backend architecture
+- [ ] 🐳 Get comfortable with **Docker**
+- [ ] 🏗️ Learn **System Design** fundamentals
+- [ ] 💼 Land a **Software Engineering internship**
+- [ ] 🚀 Ship **production-grade apps**, not just tutorials
+- [ ] 🌍 Make my first real **open-source contribution**
+
+</td></tr>
+</table>
+
+<img src="https://progress-bar.xyz/35/?title=Mission%202026%20Progress&color=a855f7&width=400" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="leetcode"></a>
+
+## 🧩 LeetCode
+
 <div align="center">
-Languages
 
-
-
-
-
-
-
-
-Backend & Runtime
-
-
-
-
-
-
-Databases & Cloud
-
-
-
-
-Tools
-
-
-
-
-
+<img src="https://leetcard.jacoblin.cool/ManasKapoor?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
 
 </div>
-📊 GITHUB STATS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manas756&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" width="49%"/> <img src="https://streak-stats.demolab.com/?user=Manas756&theme=github-dark-blue&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="49%"/>
 
+> Placeholder stats — swap the handle above for your real LeetCode username once profile is public.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+##  Blog
+
+<table width="100%">
+<tr><td align="center">
+
+📝 **Latest posts coming soon** — this section auto-updates once the blog / Hashnode / Dev.to feed is connected.
 <br/><br/>
+[![Blog](https://img.shields.io/badge/Read%20on-Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white)](#)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas756&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" width="40%"/> </div>
-🎯 CURRENT MISSION
-const manas = {
-  focus: [
-    "Full Stack Development",
-    "DSA mastery",
-    "Open Source contributions",
-    "Building production-ready apps"
-  ],
+</td></tr>
+</table>
 
-  currentlyLearning: [
-    "System Design",
-    "AWS",
-    "Backend scaling"
-  ],
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-  2026Goals: [
-    "Land strong internships",
-    "Contribute to major OSS projects",
-    "Build projects people actually use"
-  ],
-
-  motto: "Skill compounds. Build daily."
-};
-⚔️ PHILOSOPHY
-
-“Skill compounds. Stack enough focused days and you become dangerous.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=KEEP%20BUILDING%20🚀&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%"/> <div align="center">
-
-⭐ If you like what I build, connect with me and let's create something impactful.
-
-</div> ```
-web 3 developer too
-
-Then add it strategically — not as hype.
-
-If you put “Web3 Developer” without proof, recruiters ignore it.
-If you show even ONE real Web3 build, it becomes leverage.
-
-Replace:
-
-<b>Full Stack Developer • DSA Grinder • Open Source Builder</b>
-
-with:
-
-<b>Full Stack Developer • Web3 Developer • Open Source Builder</b>
-
-Also update this section:
-
-Role    : Full Stack Developer
-
-to:
-
-Role    : Full Stack + Web3 Developer
-
-And improve your tech stack with actual Web3 tools.
-
-Add this section under Backend:
-
-### Web3
-
-![Solidity](https://img.shields.io/badge/Solidity-%23ffffff.svg?style=for-the-badge&logo=solidity&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-%23ffffff.svg?style=for-the-badge&logo=ethereum&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23ffffff.svg?style=for-the-badge&logo=web3dotjs&logoColor=black)
-
-But here’s the important part:
-
-Right now your README says:
-
-“I learn things.”
-
-You need:
-
-“I shipped things.”
-
-So add a Web3 project section ONLY if you actually build one.
-
-Example:
-
-## ⛓️ Web3 Voting DApp
-
-Decentralized voting application with wallet authentication and smart contracts.
-
-### ⚡ Features
-- Wallet connect
-- On-chain voting
-- Smart contract deployment
-- Transaction validation
-
-### 🛠️ Stack
-`Solidity` `Ethereum` `React` `Web3.js`
-
-Best move for you right now:
-
-Build ONE serious Web3 project instead of collecting buzzwords.
-
-Good options:
-
-Crypto wallet tracker
-NFT marketplace clone
-DAO voting app
-Decentralized chat app
-Web3 chess with wallet login
-Smart contract escrow system
-
-A deployed project beats 20 skill badges.
-
-give me full read me just add web3 working on it
-<!-- ============================================================ -->
-<!--                     HERO / BANNER SECTION                    -->
-<!-- ============================================================ -->
+## 💬 Dev Quote of the Moment
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=380&text=MANAS%20KAPOOR&fontSize=72&color=0:000000,100:111111&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+<a id="fun-facts"></a>
+
+## 🎲 Fun Facts
+
+<table width="100%">
+<tr><td> Favorite shortcut</td><td><code>Ctrl + Z</code> — my most-used superpower</td></tr>
+<tr><td>☕ Coffee level</td><td><img src="https://progress-bar.xyz/80/?title=Coffee&color=6f4e37&width=250"/></td></tr>
+<tr><td>🐞 Debug success rate</td><td><img src="https://progress-bar.xyz/62/?title=Success&color=00c853&width=250"/></td></tr>
+<tr><td>😴 Sleep schedule</td><td><img src="https://progress-bar.xyz/40/?title=Consistency&color=ff5252&width=250"/></td></tr>
+<tr><td> Current obsession</td><td>Three.js and making divs feel three-dimensional</td></tr>
+</table>
 
 <br/>
 
-<img 
-src="https://raw.githubusercontent.com/Manas756/Manas756/main/assets/avatar.png" 
-width="220"
-/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-<h1 align="center">⚡ MANAS KAPOOR ⚡</h1>
+```
+┌────────────────────────────────┐
+│   "It works on my machine."    │
+│                                │
+│    — every developer, ever     │
+└────────────────────────────────┘
+```
 
-<p align="center">
-<b>Full Stack Developer • Web3 Developer • Open Source Builder</b>
-</p>
+</td>
+<td width="50%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+real+world+projects+🚀;Exploring+Web3+and+Blockchain+⛓️;DSA+Grinder+🧠;Open+Source+Contributor+🔥;Locked+in.+Always.+🖤" />
+```
+┌────────────────────────────────┐
+│  99 little bugs in the code,   │
+│       99 little bugs...        │
+│  take one down, patch it up,   │
+│  127 little bugs in the code   │
+└────────────────────────────────┘
+```
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%23ffffff.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/66Z4qznZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/manas-kapoor-5075b9347)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:manaskapoor033@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Manas756&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/Manas756)
+```
+┌────────────────────────────────┐
+│      I debug with print()      │
+│      because I'm too lazy      │
+│  to learn the real debugger.   │
+└────────────────────────────────┘
+```
 
-</div>
+</td>
+<td width="50%" align="center">
 
----
+```
+┌────────────────────────────────┐
+│   git commit -m "fixed bug"    │
+│    git commit -m "fixed it     │
+│           for real"            │
+│  git commit -m "please work"   │
+└────────────────────────────────┘
+```
 
-# ⚔️ ABOUT ME
+</td>
+</tr>
+</table>
 
-```bash
-> whoami
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
-Name    : Manas Kapoor
-Role    : Full Stack + Web3 Developer
-Focus   : Building scalable and real-world applications
-Stack   : MERN + Web3 + REST APIs + C++
-Learning: System Design, AWS, Blockchain, Open Source
-Status  : Locked in and shipping consistently
-🚀 FEATURED PROJECTS
-<table> <tr> <td width="50%">
-♟️ ShatranjX
+<a id="for-recruiters"></a>
 
-Real-time multiplayer chess platform with live gameplay using WebSockets.
+##  For Recruiters
 
-⚡ Features
-Real-time multiplayer matches
-Legal move validation
-Live board synchronization
-Checkmate detection
-Responsive UI
-🛠️ Stack
+<table width="100%">
+<tr><td>
 
-Node.js Express.js Socket.IO Chess.js EJS
+Thanks for scrolling this far — that already tells me you pay attention to detail, so here's the short version:
 
-🔗 Repo:
-https://github.com/Manas756
+- CS student who ships things, not just studies theory
+- Actively strengthening DSA + system design fundamentals
+- Comfortable across the stack: React, Node.js, SQL, Docker
+- Learning in public — every repo here is a real attempt, bugs included
+- Open to **internships**, **collaborations**, and **entry-level SWE roles**
 
-</td> <td width="50%">
-🌐 Developer Portfolio
+If you're building something interesting, my inbox is open. Check the pinned repos below — they're the best proof of how I think and build.
 
-Modern responsive portfolio focused on performance and clean UI.
+</td></tr>
+</table>
 
-⚡ Features
-Fully responsive
-Smooth animations
-Project showcase
-Optimized design
-🛠️ Stack
+<!-- If you made it this far in the README source... you're exactly the kind of thorough person I want reviewing my code. Let's talk. -->
 
-HTML CSS JavaScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer"/>
 
-🔗 Repo:
-https://github.com/Manas756
-
-</td> </tr> </table>
-⛓️ CURRENTLY EXPLORING WEB3
-const web3Journey = {
-  learning: [
-    "Solidity",
-    "Smart Contracts",
-    "Ethereum",
-    "Wallet Integrations",
-    "Web3.js"
-  ],
-
-  building: [
-    "Web3 based applications",
-    "Blockchain integrations",
-    "Decentralized systems"
-  ],
-
-  goal: "Merge full stack engineering with decentralized technologies."
-};
-⚙️ TECH STACK
 <div align="center">
-Languages
 
+### Thanks for stopping by 
 
+**"Talk is cheap. Show me the code."** — Linus Torvalds
 
-
-
-
-
-
-Backend & Runtime
-
-
-
-
-
-
-Databases & Cloud
-
-
-
-
-Web3
-
-
-
-
-
-
-Tools
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=ManasKapoor&label=Thanks%20for%20visiting&color=8b5cf6&style=flat-square"/>
 
 </div>
-📊 GITHUB STATS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manas756&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" width="49%"/> <img src="https://streak-stats.demolab.com/?user=Manas756&theme=github-dark-blue&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="49%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas756&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" width="40%"/> </div>
-🎯 CURRENT MISSION
-const manas = {
-  focus: [
-    "Full Stack Development",
-    "Web3 Development",
-    "DSA mastery",
-    "Building production-ready applications"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "AWS",
-    "Blockchain Architecture",
-    "Backend scaling"
-  ],
-
-  2026Goals: [
-    "Land strong internships",
-    "Contribute to major OSS projects",
-    "Build impactful software",
-    "Ship Web3 applications"
-  ],
-
-  motto: "Skill compounds. Build daily."
-};
-⚔️ PHILOSOPHY
-
-“Skill compounds. Stack enough focused days and you become dangerous.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=KEEP%20BUILDING%20🚀&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%"/> <div align="center">
-
-⭐ If you like what I build, connect with me and let's create something impactful.
-
-</div> ```
+<!-- easter egg #2: if you're a recruiter reading raw markdown, that's dedication — email me, let's skip the ATS -->
+<!-- easter egg #3: yes, the ASCII art up top really is generated from a real photo, not filler text -->
