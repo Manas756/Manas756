@@ -175,7 +175,7 @@ Real-time multiplayer chess game with live move sync, drag-and-drop play, legal 
 <td width="33%" valign="top">
 <img src="https://img.shields.io/badge/Project-Coming%20Soon-1a1a2e?style=for-the-badge" width="100%"/>
 
-**Project Name #2**
+**BE CREATIVE**
 <br/>
 One or two lines on the problem this project solves and why it matters.
 
