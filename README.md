@@ -15,7 +15,7 @@
 
 <!-- Hero image lives at assets/hero.png — keep that file committed alongside README.md so it renders. -->
 
-### HELLO INTERNET
+### HIIII
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I'm+Manas+Kapoor;Building+software%2C+one+commit+at+a+time;CS+Student+%7C+Aspiring+SWE;console.log('Hello%2C+World'.repeat(Infinity));Currently+debugging+life..." alt="Typing SVG" /></a>
 
